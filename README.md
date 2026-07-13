@@ -1,16 +1,56 @@
-## Hi there 👋
+# <div align="center"> Hi 👋, I'm Yaswanthan B R 🚀</div>
 
-<!--
-**Yaswanthan07/Yaswanthan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### AI & ML Enthusiast | Full Stack Developer | Problem Solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Applications;AI+Engineer+in+Progress;Full+Stack+Developer;Machine+Learning+Enthusiast;Future+Software+Engineer"/>
+
+</div>
+
+## 🚀 About Me
+
+```yaml
+Name: Yaswanthan B R
+College: RMK Engineering College
+Department: CSBS
+
+Interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Full Stack Development
+  - Agentic AI
+  - AI Automations
+  - Cloud Computing
+
+Achievements:
+  - SIH 2025 Winner
+  - 2500+ SkillRack Problems Solved
+  - Oracle Agentic AI Certified Associate
+  - Goethe German A2 Certified
+  - Top 5 in St. Joseph's Hackathon 2K25
+```
+
+---
+
+## 🔥 Currently Working On
+
+* 🧠 AI Powered Resume Screening System
+* 🏠 House Value Prediction using Location Intelligence
+* 🚦 AI Traffic Management System
+* 🎤 AI Mock Interview Assistant
+* 🤖 AI Agents and LLM Applications
+
+---
+🐍 Contribution Snake
+
+<p align="center"> <img src="https://raw.githubusercontent.com/Yaswanthan07/Yaswanthan07/output/github-contribution-grid-snake.svg"/> </p>
+
+---
+<div align="center">
+
+## ⚡ Code • Learn • Build • Repeat ⚡
+
+*"Building intelligent applications that solve real-world problems."*
+
+</div>
