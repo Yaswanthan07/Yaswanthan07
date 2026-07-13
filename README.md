@@ -42,11 +42,6 @@ Achievements:
 * 🤖 AI Agents and LLM Applications
 
 ---
-🐍 Contribution Snake
-
-<p align="center"> <img src="https://raw.githubusercontent.com/Yaswanthan07/Yaswanthan07/output/github-contribution-grid-snake.svg"/> </p>
-
----
 <div align="center">
 
 ## ⚡ Code • Learn • Build • Repeat ⚡
